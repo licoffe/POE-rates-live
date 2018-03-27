@@ -32,9 +32,11 @@ Feel free to have a look at [this tutorial video](https://www.youtube.com/watch?
   
 - **What are the trade stats?**
   
+  Trade stats return the price distribution for a search on poe.trade with identical parameters. Only prices with different sellers and an occurence > 1 are taken into account.
+  
   ![Stats](https://i.imgur.com/btjVsg0.png)
   
-  Trade stats return the price distribution for a search on poe.trade with identical parameters. Only prices with different sellers and an occurence > 1 are taken into account.
+  For example, here we have 4 items for 40 chaos, 2 for 49 chaos, etc.
 
 - **Sometimes I stop receiving new items. How does that happen?**
   
