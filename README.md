@@ -67,4 +67,5 @@ Feel free to have a look at [this tutorial video](https://www.youtube.com/watch?
   `"[Explicit] Socketed Gems are Supported by Level # Trap": null`
 
 - **I noticed a bug in your tool. How do I report it?**
+
   Please open a new issue and describe the problems you encountered
