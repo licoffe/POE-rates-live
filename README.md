@@ -59,10 +59,12 @@ Feel free to have a look at [this tutorial video](https://www.youtube.com/watch?
 - **I cannot find this item affix. When will you add it?**
 
   Fill free to edit the affix-completion.json file to add the missing affix and send me a pull request. An affix entry has the following syntax:
-  "[Explicit,implicit,Unique explicit, Enchant, Total, Pseudo] The affix name with the right case and varying values replaced by #": null
+  
+  `"[Explicit,implicit,Unique explicit, Enchant, Total, Pseudo] The affix name with the right case and varying values replaced by #": null`
   
   Here is an example:
-  "[Explicit] Socketed Gems are Supported by Level # Trap": null,
+  
+  `"[Explicit] Socketed Gems are Supported by Level # Trap": null`
 
 - **I noticed a bug in your tool. How do I report it?**
   Please open a new issue and describe the problems you encountered
