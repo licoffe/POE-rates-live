@@ -1,5 +1,5 @@
 # POE-rates-live
-Support page for the [POE-rates :: Live](http://poe-rates.com/live) online search
+Support page for the [POE-rates :: Live](https://poe-rates.com/live) online search
 
 ### Tutorial video
 Feel free to have a look at [this tutorial video](https://www.youtube.com/watch?v=MjHsYp2cLMc) explaining most of the features of the tool.
